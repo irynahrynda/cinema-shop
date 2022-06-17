@@ -9,7 +9,7 @@ This project has a simple authentication system based on Hibernate and Spring.
 - --
 
 ### Endpoints
-- Available endpoints in the project:*
+- Available endpoints in the project:
 - POST: /register - all 
 - GET: /cinema-halls - user/admin 
 - POST: /cinema-halls - admin
